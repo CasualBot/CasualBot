@@ -9,14 +9,10 @@ Besides programming I love to play video games 🎮, build Gundam models (Gunpla
 
 I'm trying to get more in to open-source coding / projects to spend more time at home / free time programming to help better my skills.
 
----
-
 ## 📚 What I'm Learning:
 * [ ] **Rust - Hands-on learning and Game Development with rust**
 * [ ] **C# - Unity Game Development**
 * [ ] **French! - Je m'appelle Shawn!**
-
---- 
 
 ## How to get ahold of me! 
 
